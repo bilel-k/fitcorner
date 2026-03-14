@@ -20,7 +20,7 @@ Caractéristiques principales :
 
 Que vous pratiquiez le yoga Hatha, Vinyasa, Ashtanga ou simplement des étirements quotidiens,
 ce tapis vous accompagnera dans votre pratique pour des séances plus agréables et efficaces.`,
-    image: "/images/tapisyogapng",
+    image: "/images/tapisyoga.webp",
     price: 19.99,
     features: [
       "Épaisseur 6mm pour le confort",
@@ -54,7 +54,7 @@ ce tapis vous accompagnera dans votre pratique pour des séances plus agréables
               {/* Image */}
               <div className="order-1">
                 <img
-                  src="/images/tapisyogapng"
+                  src="/images/tapisyoga.webp"
                   alt="Tapis de Yoga Premium"
                   className="w-full h-auto rounded-lg shadow-lg sticky top-24"
                 />

@@ -20,7 +20,7 @@ Inclus dans le kit :
 
 Que vous soyez débutant ou sportif confirmé, ce kit vous permettra de suivre un programme
 d'entraînement personnalisé pour atteindre vos objectifs de remise en forme.`,
-    image: "/images/kitmusculationmaisonpng",
+    image: "/images/kitmusculationmaison.webp",
     price: 29.99,
     features: [
       "Bandes élastiques multi-niveaux",
@@ -54,7 +54,7 @@ d'entraînement personnalisé pour atteindre vos objectifs de remise en forme.`,
               {/* Image */}
               <div className="order-1">
                 <img
-                  src="/images/kitmusculationmaisonpng"
+                  src="/images/kitmusculationmaison.webp"
                   alt="Kit Musculation Maison"
                   className="w-full h-auto rounded-lg shadow-lg sticky top-24"
                 />
